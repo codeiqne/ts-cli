@@ -1,0 +1,14 @@
+{
+    "name": "",
+    "version": "0.0.0",
+    "dockerfile": "",
+    "composefile": "",
+    "ports": [],
+    "volumes": [],
+    "entrypoint": "",
+    "type": "",
+    "repo": "",
+    "settings": {
+        "autoupdate": true
+    }
+}
